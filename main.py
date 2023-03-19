@@ -22,8 +22,6 @@ def main():
     data = []
     data = sec_line
 
-    data = []
-
     result = parallel_processing(n,m,data)
     
     for i, j in result:
